@@ -1,0 +1,11 @@
+
+spring:
+  application:
+    name: Api_De_Gymm
+
+server:
+  port: 8080
+
+gimnasio:
+  validacion:
+    estado: 422
